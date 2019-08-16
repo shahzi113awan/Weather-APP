@@ -42,7 +42,7 @@ input{
 }
 #msg1{
     border-radius: 2%;
-    background-color: lightskyblue;
+    background-color:transparent;
     align-content: center;
     margin-left: 30%;
     text-size-adjust: 2px;
@@ -53,7 +53,7 @@ input{
 }
 #msg2{
     border-radius: 2%;
-    background-color: lightsteelblue;
+    background-color:transparent;
     align-content: center;
     margin-left: 30%;
     text-size-adjust: 2px;
