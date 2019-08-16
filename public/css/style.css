@@ -1,0 +1,64 @@
+h1
+{
+color: black;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+}
+img{
+    margin-left: 47.5%;
+    
+    margin-top:-10px 
+
+}
+h2{
+    color: aqua;
+    text-align: center;
+    
+    
+}
+body{
+background-image: url("../images/backg.jpg")
+
+
+}
+title{
+    color: cadetblue
+}
+form{
+    align-content: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+input{
+    align-content: center;
+    margin-left: 42%;
+    border-block-end-style: hidden;
+
+}
+#btn{
+    align-content: center;
+    margin-left: 91%;
+    margin-top: 20px;
+}
+#msg1{
+    border-radius: 2%;
+    background-color: lightskyblue;
+    align-content: center;
+    margin-left: 30%;
+    text-size-adjust: 2px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-right: 30%;
+    border-block-end-style: hidden;
+}
+#msg2{
+    border-radius: 2%;
+    background-color: lightsteelblue;
+    align-content: center;
+    margin-left: 30%;
+    text-size-adjust: 2px;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-right: 30%;
+    margin-top: 20px;
+}
