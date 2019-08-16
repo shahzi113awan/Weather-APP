@@ -4,6 +4,7 @@ const forecast = require('./utils/forecast')
 const geocode = require('./utils/geocode')
 const hbs = require('hbs')
 const app = express()
+const port =process.env.PORT || 3000
 //console.log(app.use(express.static(path.join(__dirname ,'../views'))) )
 
 const publicPath=path.join(__dirname ,'../public')
@@ -113,4 +114,4 @@ app.get('/help/*',(req,res)=>{
     // app.get('/about',(req,res)=>{
     // res.send('about is not availabale yet')
     // })
-app.listen(3000)
+app.listen(port)
